@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Robot Framework
+output.xml
+log.html
+report.html
+*.log
+results/
+
+# Packages
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# other
+*.swp
