@@ -1,7 +1,5 @@
 #pip install -r requirements.txt
-robotframework
-robotframework-requests
-robotframework-pythonlibcore
-robotframework-pabot
-robocop
-robotframework-allure
+robotframework==6.1.2
+robotframework-requests==0.9.7
+selenium
+robotframework-seleniumlibrary
