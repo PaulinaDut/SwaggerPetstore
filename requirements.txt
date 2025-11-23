@@ -1,5 +1,5 @@
 #pip install -r requirements.txt
-robotframework==6.1.2
+robotframework==7.4b2
 robotframework-requests==0.9.7
 selenium
 robotframework-seleniumlibrary
